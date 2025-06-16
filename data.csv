@@ -1,0 +1,218 @@
+brand,processor,ram,video-card,memory,price
+Asus,Intel Core i5,40,Intel UHD Graphics,1024,18599
+Asus,Intel Core i5,16,Intel UHD Graphics,512,24009
+Lenovo,AMD Ryzen 7,40,AMD Radeon Graphics,1024,19799
+Lenovo,AMD Ryzen 7,16,AMD Radeon Graphics,1024,17649
+Lenovo,Intel Core i5,32,Nvidia GeForce RTX™ 4060,512,37449
+Lenovo,Intel Core i5,32,Nvidia GeForce RTX™ 4060,1024,38699
+Lenovo,Intel Core i5,64,Nvidia GeForce RTX™ 4060,1024,41189
+Lenovo,Intel Core i5,32,Nvidia GeForce RTX™ 4060,1024,38649
+Lenovo,AMD Ryzen 7,24,AMD Radeon Graphics,1024,18599
+Lenovo,AMD Ryzen 7,16,AMD Radeon Graphics,1024,17999
+Asus,AMD Ryzen 7,16,Nvidia GeForce RTX™ 4050,512,36799
+Asus,AMD Ryzen 7,16,Nvidia GeForce RTX™ 4060,512,42999
+MSI,Intel Core i5,16,Nvidia GeForce RTX™ 4060,1024,56339
+Lenovo,AMD Ryzen 7,16,AMD Radeon Graphics,512,16749
+Asus,Intel Core i5,16,Nvidia GeForce RTX™ 5050,512,58729
+Asus,Intel Core i7,8,Nvidia GeForce RTX™ 5050,512,64149
+Asus,Intel Core i7,16,Nvidia GeForce RTX™ 5060,1024,68399
+Asus,Intel Core i7,16,Nvidia GeForce RTX™ 5070,16,82069
+Asus,Intel Core i5,8,Nvidia GeForce RTX™ 3050,512,37259
+MSI,Intel Core Ultra 7,32,Nvidia GeForce RTX™ 5070TI,1024,133639
+Asus,Intel Core i7,12,Intel UHD Graphics,512,23999
+MSI,Intel Core Ultra 7,32,Intel Arc Graphics,1024,47119
+MSI,Intel Core Ultra 9,64,Nvidia GeForce RTX™ 5090,6144,324599
+MSI,Intel Core Ultra 7,16,Nvidia GeForce RTX™ 4070,1024,91859
+MSI,AMD Ryzen 9,32,Nvidia GeForce RTX™ 5070TI,1024,151499
+Asus,Intel Core i5,40,Nvidia GeForce RTX™ 4050,1024,41039
+Asus,Intel Core i5,40,Nvidia GeForce RTX™ 4050,512,40089
+Asus,Intel Core i5,24,Nvidia GeForce RTX™ 4050,1024,40089
+Asus,Intel Core i5,16,Nvidia GeForce RTX™ 4050,1024,39569
+Asus,Intel Core i5,24,Nvidia GeForce RTX™ 4050,512,39059
+Asus,Intel Core i5,16,Nvidia GeForce RTX™ 4050,512,37739
+Asus,Intel Core i5,8,Nvidia GeForce RTX™ 4050,512,36789
+Asus,Intel Core i7,40,Intel UHD Graphics,512,25799
+Asus,Intel Core i7,40,Intel UHD Graphics,1024,26399
+Asus,Intel Core i7,16,Intel UHD Graphics,512,23899
+Asus,Intel Core i7,16,Intel UHD Graphics,1024,24599
+Asus,Intel Core i7,24,Intel UHD Graphics,1024,25549
+Asus,Intel Core i7,24,Intel UHD Graphics,512,24499
+Asus,AMD Ryzen 7,16,Nvidia GeForce RTX™ 4060,512,44999
+GIGABYTE,Intel Core i7,32,Nvidia GeForce RTX™ 4050,1024,42409
+Lenovo,Intel Core i5,24,Intel Iris Xe Graphics,512,29389
+Lenovo,Intel Core i5,24,Intel Iris Xe Graphics,1024,30659
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,1024,31839
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,512,30419
+Lenovo,Intel Core Ultra 7,16,Intel UHD Graphics,512,43749
+Lenovo,Intel Core Ultra 5,16,Intel UHD Graphics,512,42449
+Lenovo,Intel Core Ultra 5,16,Intel UHD Graphics,512,33899
+Hp,AMD Ryzen 5,16,AMD Radeon Graphics,512,36559
+Asus,Intel Core i5,40,Intel UHD Graphics,512,24479
+Asus,Intel Core i5,24,Intel UHD Graphics,1024,16499
+Asus,Intel Core i5,24,Intel UHD Graphics,512,15399
+Asus,Intel Core i5,16,Intel UHD Graphics,1024,24009
+Hp,Intel Core Ultra 5,8,Intel UHD Graphics,512,32029
+Lenovo,Intel Core Ultra 5,16,Intel UHD Graphics,512,39499
+Dell,Intel Core i7,16,Intel Iris Xe Graphics,512,40819
+Dell,Intel Core i5,8,Intel Iris Xe Graphics,512,29719
+Hp,Intel Core i5,40,Intel Iris Xe Graphics,2048,26269
+Hp,Intel Core i5,40,Intel Iris Xe Graphics,1024,20399
+Hp,Intel Core i5,40,Intel Iris Xe Graphics,512,19349
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,2048,24759
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,1024,19249
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,512,18249
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,2048,24149
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,1024,18699
+Hp,AMD Ryzen 7,40,AMD Radeon Graphics,2048,24429
+Hp,AMD Ryzen 7,40,AMD Radeon Graphics,1024,20999
+Hp,AMD Ryzen 7,24,AMD Radeon Graphics,2048,23249
+Hp,AMD Ryzen 7,24,AMD Radeon Graphics,1024,19499
+Hp,AMD Ryzen 7,16,AMD Radeon Graphics,2048,22309
+Hp,Intel Core i7,40,Intel Iris Xe Graphics,2048,30609
+Hp,Intel Core i7,24,Intel Iris Xe Graphics,2048,29479
+Hp,Intel Core i7,16,Intel Iris Xe Graphics,2048,29059
+Hp,Intel Core i7,40,Intel Iris Xe Graphics,1024,25649
+Hp,Intel Core i7,40,Intel Iris Xe Graphics,512,24649
+Hp,Intel Core i7,24,Intel Iris Xe Graphics,1024,23999
+Hp,Intel Core i7,24,Intel Iris Xe Graphics,512,22999
+Hp,Intel Core i7,16,Intel Iris Xe Graphics,1024,23449
+Hp,Intel Core i7,16,Intel Iris Xe Graphics,512,22999
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,2048,25929
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,2048,26359
+Hp,Intel Core i5,32,Intel Iris Xe Graphics,2048,26779
+Hp,Intel Core i5,32,Intel Iris Xe Graphics,1024,19599
+Hp,Intel Core i5,32,Intel Iris Xe Graphics,512,18599
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,1024,18999
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,512,17999
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,1024,18499
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,512,22759
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,2048,28249
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,2048,28249
+Hp,Intel Core i5,48,Intel Iris Xe Graphics,2048,28249
+Hp,Intel Core i5,48,Intel Iris Xe Graphics,512,25939
+Hp,Intel Core i5,48,Intel Iris Xe Graphics,1024,25939
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,1024,19599
+Hp,Intel Core i5,24,Intel Iris Xe Graphics,512,18599
+Hp,Intel Core i5,32,Intel Iris Xe Graphics,1024,19999
+Hp,Intel Core i5,32,Intel Iris Xe Graphics,512,19099
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,1024,18999
+MSI,Intel Core i5,16,Nvidia GeForce RTX™ 3050,512,40509
+Asus,Intel Core i5,8,Intel UHD Graphics,512,13599
+Dell,Intel Core i5,32,Intel Iris Xe Graphics,1024,21789
+Dell,Intel Core i5,32,Intel Iris Xe Graphics,512,20589
+Dell,Intel Core i5,24,Intel Iris Xe Graphics,1024,21419
+Dell,Intel Core i5,24,Intel Iris Xe Graphics,512,20079
+Dell,Intel Core i5,16,Intel Iris Xe Graphics,1024,20689
+Hp,AMD Ryzen 7,16,AMD Radeon Graphics,1024,18999
+Hp,Intel Core i5,8,Intel Iris Xe Graphics,512,16999
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,512,17999
+Lenovo,Intel Core i7,32,Nvidia GeForce RTX™ 4060,1024,62399
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,2048,32969
+Lenovo,Intel Core i5,24,Intel Iris Xe Graphics,2048,32969
+Lenovo,Intel Core i5,40,Intel Iris Xe Graphics,2048,32969
+Lenovo,Intel Core i5,40,Intel Iris Xe Graphics,1024,22499
+Lenovo,Intel Core i5,40,Intel Iris Xe Graphics,512,30139
+Lenovo,Intel Core i5,24,Intel Iris Xe Graphics,1024,21349
+Lenovo,Intel Core i5,24,Intel Iris Xe Graphics,512,20399
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,1024,29009
+Lenovo,Intel Core i7,40,Intel Iris Xe Graphics,2048,37739
+Lenovo,Intel Core i7,24,Intel Iris Xe Graphics,2048,37219
+Lenovo,Intel Core i7,16,Intel Iris Xe Graphics,2048,37219
+Lenovo,Intel Core i7,40,Intel Iris Xe Graphics,512,26699
+Lenovo,Intel Core i7,40,Intel Iris Xe Graphics,1024,27649
+Lenovo,Intel Core i7,24,Intel Iris Xe Graphics,1024,26699
+Lenovo,Intel Core i7,24,Intel Iris Xe Graphics,512,25699
+Lenovo,Intel Core i7,16,Intel Iris Xe Graphics,1024,33249
+Lenovo,Intel Core i7,16,Intel Iris Xe Graphics,512,24999
+Asus,Intel Core i5,24,Intel UHD Graphics,1024,17999
+Asus,Intel Core i5,16,Intel UHD Graphics,1024,17299
+Asus,Intel Core i5,40,Intel UHD Graphics,512,17799
+Asus,Intel Core i5,16,Intel UHD Graphics,512,16299
+Lenovo,AMD Ryzen 7,40,AMD Radeon Graphics,1024,19849
+Lenovo,AMD Ryzen 7,40,AMD Radeon Graphics,512,18849
+Lenovo,AMD Ryzen 7,24,AMD Radeon Graphics,512,17349
+Lenovo,AMD Ryzen 7,24,AMD Radeon Graphics,1024,18199
+Lenovo,AMD Ryzen 7,40,AMD Radeon Graphics,512,18649
+Lenovo,Intel Core i5,64,Nvidia GeForce RTX™ 4060,512,39899
+Lenovo,Intel Core i5,16,Nvidia GeForce RTX™ 4060,1024,37199
+Lenovo,Intel Core i5,16,Nvidia GeForce RTX™ 4060,512,35899
+Lenovo,Intel Core Ultra 7,16,Intel Iris Xe Graphics,512,46649
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,512,29049
+Hp,AMD Ryzen 5,16,AMD Radeon Graphics,512,29199
+Asus,Intel Core Ultra 5,8,Nvidia GeForce RTX™ 4050,512,33999
+MSI,AMD Ryzen 9,32,Nvidia GeForce RTX™ 5080,1024,181199
+MSI,AMD Ryzen 9,64,Nvidia GeForce RTX™ 5080,2048,240039
+MSI,Intel Core Ultra 9,64,Nvidia GeForce RTX™ 5080,2048,235319
+MSI,Intel Core Ultra 9,32,Nvidia GeForce RTX™ 5080,1024,173999
+MSI,Intel Core Ultra 9,64,Nvidia GeForce RTX™ 5080,4096,245899
+MSI,Intel Core i9,64,Nvidia GeForce RTX™ 5090,4096,287799
+Hp,Intel Core i5,8,Intel Iris Xe Graphics,256,42919
+Hp,AMD Ryzen 5,8,AMD Radeon Graphics,512,48819
+Hp,AMD Ryzen 5,16,AMD Radeon Graphics,256,58169
+Hp,AMD Ryzen 5,8,AMD Radeon Graphics,256,44289
+Hp,AMD Ryzen 5,8,AMD Radeon Graphics,256,43729
+Lenovo,Intel Core i5,16,Nvidia GeForce RTX™ 4060,1024,36899
+Lenovo,Intel Core i5,16,Intel UHD Graphics,512,39469
+Dell,Intel Core i5,8,Intel Iris Xe Graphics,512,36269
+Dell,Intel Core i5,8,Intel Iris Xe Graphics,512,34859
+Dell,Intel Core i5,8,Intel Iris Xe Graphics,512,28539
+Dell,Intel Core i5,8,Intel Iris Xe Graphics,512,34299
+Dell,Intel Core i7,16,Intel Iris Xe Graphics,512,37969
+Hp,Intel Core i3,8,Intel HD Graphics,512,16789
+Hp,Intel Core i7,8,Intel Iris Xe Graphics,512,22499
+Hp,AMD Ryzen 5,16,AMD Radeon Graphics,512,22899
+Hp,AMD Ryzen 7,16,AMD Radeon Graphics,512,37199
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,512,17699
+Lenovo,AMD Ryzen 5,8,AMD Radeon Graphics,512,33109
+Dell,Intel Core i5,16,Intel Iris Xe Graphics,512,19339
+Dell,Intel Core i5,8,Intel Iris Xe Graphics,512,22829
+Dell,Intel Core i7,16,Nvidia GeForce MX570,512,45229
+MSI,Intel Core Ultra 7,32,Intel Arc Graphics,1024,84409
+Lenovo,Intel Core i5,8,Intel Iris Xe Graphics,256,19099
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,512,19699
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,512,39179
+Lenovo,Intel Core i5,12,Nvidia GeForce RTX™ 4060,1024,36899
+Asus,Intel Core i5,8,Intel UHD Graphics,512,23349
+Asus,Intel Core i3,8,Intel UHD Graphics,512,16039
+MSI,Intel Core i5,16,Nvidia GeForce RTX™ 4050,1024,39219
+Lenovo,AMD Ryzen 7,24,AMD Radeon Graphics,512,17599
+MSI,Intel Core i9,64,RTX3500 Ada,4096,213499
+MSI,AMD Ryzen AI 9,32,AMD Radeon Graphics,1024,81429
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4050,512,49939
+Lenovo,AMD Ryzen 7,16,AMD Radeon Graphics,512,16999
+Hp,AMD Ryzen 7 PRO,16,AMD Radeon Graphics,512,39669
+Hp,Intel Core Ultra 5,16,Intel Arc Graphics,512,65489
+Hp,Intel Core i5,8,Intel Iris Xe Graphics,512,30039
+Hp,AMD Ryzen 5,16,AMD Radeon 740M,512,47069
+Hp,AMD Ryzen 9,32,AMD Radeon Graphics,1024,71739
+Hp,Intel Core i7,16,Intel UHD Graphics,1024,59529
+Hp,AMD Ryzen 7,16,AMD Radeon Graphics,1024,55749
+Hp,Intel Core i7,16,Intel Iris Xe Graphics,1024,81889
+Hp,Intel Core i5,8,Intel Iris Xe Graphics,512,29389
+Lenovo,AMD Ryzen 5,16,AMD Radeon Graphics,512,25199
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4070,1024,69509
+Lenovo,Intel Core i5,8,Intel UHD Graphics,512,30389
+Hp,Intel Core i5,16,Intel Iris Xe Graphics,512,36689
+Lenovo,Intel Core i7,16,Intel Iris Xe Graphics,512,104019
+Lenovo,Intel Core i5,8,Intel Iris Xe Graphics,256,34429
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,512,89569
+Lenovo,AMD Ryzen 7,16,AMD Radeon Graphics,512,37849
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4070,1024,69509
+MSI,Intel Core i7,32,Nvidia GeForce RTX™ 4050,1024,70709
+MSI,Intel Core Ultra 7,32,Intel Arc Graphics,1024,66039
+MSI,Intel Core i7,32,Nvidia GeForce RTX™ 4070,1024,87729
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4050,512,51139
+Hp,AMD Ryzen 5,8,AMD Radeon 660M Graphics,512,49289
+Hp,AMD Ryzen 5,8,AMD Radeon 660M Graphics,512,51269
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,512,37779
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4050,1024,54619
+Lenovo,Intel Core i5,16,Intel Iris Xe Graphics,512,28539
+Lenovo,Intel Core i5,8,Intel UHD Graphics,512,40759
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4050,512,53459
+MSI,Intel Core Ultra 7,32,Intel Arc Graphics,1024,84899
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4050,1024,55029
+MSI,Intel Core i5,16,Nvidia GeForce RTX™ 4060,1024,56339
+MSI,Intel Core i7,16,Nvidia GeForce RTX™ 4060,512,53979
+MSI,Intel Core i7,16,Intel Iris Xe Graphics,1024,49649
+MSI,Intel Core i5,16,Nvidia GeForce RTX™ 4060,512,54939
+MSI,Intel Core Ultra 7,32,Intel Arc Graphics,1024,74969
